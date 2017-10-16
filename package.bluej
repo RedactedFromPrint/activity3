@@ -27,6 +27,7 @@ target2.editor.x=676
 target2.editor.y=0
 target2.height=50
 target2.name=StringExplorer
+target2.naviview.expanded=false
 target2.showInterface=false
 target2.type=ClassTarget
 target2.typeParameters=

@@ -23,7 +23,7 @@ public class StringExplorer
         System.out.println ("After toLowerCase(), sample = " + sample);
         
         //  Try other methods here:
-        int positionFromIndex = sample.indexOf("quick", 3);
+        int positionFromIndex = sample.indexOf("quick", 5);
         System.out.println("sample.indexOf(\"quick\") = " +  positionFromIndex);
     }
 }
